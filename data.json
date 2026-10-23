@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "title": "Mohammadreza Naderi Akhormeh — Resume & Portfolio",
+    "description": "Computer Engineering Student at University of Yasouj specializing in Artificial Intelligence, Machine Learning, Computer Vision, and Robotics.",
+    "language": "en",
+    "lastUpdated": "2026-10-23",
+    "githubRepo": "https://github.com/naderidev/cv",
+    "rawJsonUrl": "https://raw.githubusercontent.com/naderidev/cv/main/public/data.json"
+  },
+  "profile": {
+    "name": "Mohammadreza Naderi Akhormeh",
+    "headline": "Computer Engineering Student",
+    "subheadline": "AI & Robotics Enthusiast · Web Developer",
+    "avatar": "/images/profile.webp",
+    "avatarFallback": "/images/profile.png",
+    "location": "Yasouj, Iran",
+    "email": "naderi.mohammadreza@outlook.com",
+    "website": "https://naderidev.ir",
+    "websiteDisplay": "naderidev.ir",
+    "github": "https://github.com/naderidev",
+    "githubUsername": "naderidev",
+    "linkedin": "https://linkedin.com/in/naderidev",
+    "linkedinUsername": "naderidev",
+    "kaggle": "https://www.kaggle.com/mohammadrezanaderia",
+    "kaggleUsername": "mohammadrezanaderia",
+    "resumePdf": "/files/Mohammadreza_Naderi_Akhormeh_Resume.pdf",
+    "status": {
+      "available": true,
+      "text": "Available"
+    },
+    "bio": [
+      "Computer Engineering student at the University of Yasouj with a strong passion for artificial intelligence, machine learning, computer vision, and intelligent robotic systems.",
+      "Experienced in programming, academic teaching assistance, and modern web development, with a committed interest in applying AI techniques to solve complex real-world problems.",
+      "Seeking to deepen expertise in AI and robotics through graduate studies and innovative research initiatives."
+    ]
+  },
+  "education": [
+    {
+      "institution": "University of Yasouj",
+      "degree": "Bachelor of Science in Computer Engineering",
+      "period": "10/2023 – Present",
+      "location": "Yasouj, Iran",
+      "gpa": "18.39 / 20",
+      "gpaHighlight": "Ranked 1st in Admission Cohort",
+      "relevantInterests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Robotics"
+      ],
+      "highlights": [
+        "Achieved a top GPA of 18.39/20 across completed semesters.",
+        "Recognized as the top-ranking academic student among 77 peers in the 2023 entry cohort.",
+        "Served as a Teaching Assistant in foundational programming courses."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "First-Ranked Student in Computer Engineering",
+      "issuer": "University of Yasouj",
+      "year": "2026",
+      "badge": "Rank 1 / 77",
+      "description": "Ranked 1st among 77 students in the 2023 Computer Engineering admission cohort at the University of Yasouj, awarded based on outstanding academic performance."
+    },
+    {
+      "title": "Membership in the Iran National Elites Foundation",
+      "issuer": "Iran National Elites Foundation (INEF)",
+      "year": "2025",
+      "badge": "INEF Fellow",
+      "description": "Participating in the 9th Edition of the Problem-Oriented Research and Technology Core Groups Program through the research project entitled 'Protecting Natural Areas Using Artificial Intelligence and Satellite Remote Sensing Imagery.'"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Freelance Web Developer",
+      "company": "Self-Employed",
+      "type": "Freelance",
+      "period": "09/2024 – Present",
+      "location": "Yasouj, Iran",
+      "summary": "Building modern, scalable web applications and robust server-side APIs.",
+      "bullets": [
+        "Developed and maintained website backends using PHP and the Laravel framework.",
+        "Implemented secure server-side business logic, authentication, and RESTful APIs based on client project requirements.",
+        "Optimized relational database queries and backend workflows for speed and reliability."
+      ],
+      "skills": ["PHP", "Laravel", "MySQL", "REST APIs", "Git"]
+    },
+    {
+      "role": "Teaching Assistant – Fundamentals of Computer & Programming",
+      "company": "University of Yasouj",
+      "type": "Academic Teaching",
+      "period": "09/2024 – 06/2025",
+      "location": "University of Yasouj, Iran",
+      "summary": "Mentored undergraduate engineering students in programming fundamentals and algorithmic thinking.",
+      "bullets": [
+        "Served as an official teaching assistant for two consecutive academic semesters.",
+        "Guided students through core programming paradigms, memory management, and algorithmic problem-solving techniques.",
+        "Supervised hands-on coding lab sessions, graded assignments, and conducted one-on-one debugging support."
+      ],
+      "skills": ["C/C++", "Python", "Algorithms", "Problem Solving", "Mentorship"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "graph-routing",
+      "title": "Graph Routing & Visualization Application",
+      "context": "Discrete Mathematics Project",
+      "description": "A comprehensive graphical application for graph representation, route finding, and interactive pathfinding visualization between nodes.",
+      "bullets": [
+        "Designed and implemented graph data structures with flexible node-edge representations.",
+        "Integrated shortest-path and search algorithms to compute optimal routes between arbitrary network nodes.",
+        "Provided an intuitive graphical interface for visualizing graph topologies and real-time path exploration."
+      ],
+      "tags": ["Python", "Graph Theory", "Algorithms", "GUI", "Visualization"],
+      "link": "https://github.com/naderidev/graph-routing",
+      "linkText": "View on GitHub",
+      "featured": true
+    },
+    {
+      "id": "clothing-segmentation",
+      "title": "People Clothing Segmentation Using Deep Learning",
+      "context": "Computer Vision & Semantic Segmentation",
+      "description": "A deep learning computer vision model developed to perform semantic segmentation of clothing garments in human photography.",
+      "bullets": [
+        "Built and trained a semantic segmentation pipeline to accurately isolate clothing regions.",
+        "Achieved 87% validation accuracy during rigorous model evaluation benchmarks.",
+        "Applied data augmentation, mask preprocessing, and loss function tuning for robust pixel-level classification."
+      ],
+      "tags": ["Deep Learning", "Computer Vision", "TensorFlow", "Kaggle", "Python"],
+      "link": "https://www.kaggle.com/code/mohammadrezanaderia/people-clothing-segmentation-with-87-val-accuracy",
+      "linkText": "View on Kaggle",
+      "featured": true
+    },
+    {
+      "id": "turtle-control-ros2",
+      "title": "Autonomous Turtle Control & Target Tracking Using ROS 2",
+      "context": "Robotics & Autonomous Systems",
+      "description": "An autonomous robotic tracking and pursuit system implemented in ROS 2 utilizing the Turtlesim environment.",
+      "bullets": [
+        "Developed custom ROS 2 nodes for closed-loop robotic control and real-time trajectory steering.",
+        "Implemented proactive target-tracking algorithms to intercept dynamically spawning target coordinates.",
+        "Demonstrated modular ROS 2 architecture: nodes, publishers, subscribers, custom services, and launch files."
+      ],
+      "tags": ["ROS 2", "Robotics", "Control Systems", "Python", "Turtlesim"],
+      "link": "https://github.com/naderidev/ros2-catch-them-all",
+      "linkText": "View on GitHub",
+      "featured": true
+    },
+    {
+      "id": "heat-distribution",
+      "title": "Numerical Simulation of Heat Distribution",
+      "context": "Engineering Mathematics Simulation",
+      "description": "An interactive numerical simulation of partial differential equations (2D Heat Diffusion Equation) running smoothly in the web browser.",
+      "bullets": [
+        "Formulated the 2D heat equation via finite-difference numerical discretization.",
+        "Engineered an interactive browser-based visualization displaying temperature gradients over discrete time steps.",
+        "Enabled user configuration of boundary conditions and thermal conductivity parameters."
+      ],
+      "tags": ["Simulation", "Numerical Methods", "JavaScript", "Canvas API", "Math"],
+      "link": "https://github.com/naderidev/heat-equation-simulation",
+      "linkText": "View on GitHub",
+      "featured": true
+    }
+  ],
+  "skills": {
+    "categories": [
+      {
+        "name": "Artificial Intelligence & Data Science",
+        "icon": "brain",
+        "items": [
+          { "name": "Python", "level": "Advanced", "rating": 5 },
+          { "name": "NumPy, Pandas, Matplotlib", "level": "Advanced", "rating": 5 },
+          { "name": "Scikit-learn", "level": "Proficient", "rating": 4 },
+          { "name": "TensorFlow", "level": "Proficient", "rating": 4 },
+          { "name": "Computer Vision", "level": "Proficient", "rating": 4 },
+          { "name": "Deep Learning", "level": "Proficient", "rating": 4 }
+        ]
+      },
+      {
+        "name": "Robotics & Simulation",
+        "icon": "robot",
+        "items": [
+          { "name": "ROS 2 (Robot Operating System)", "level": "Proficient", "rating": 4 },
+          { "name": "Gazebo Simulation", "level": "Intermediate", "rating": 3 },
+          { "name": "Turtlesim & Control Systems", "level": "Proficient", "rating": 4 }
+        ]
+      },
+      {
+        "name": "Web Development & Backends",
+        "icon": "code",
+        "items": [
+          { "name": "PHP & Laravel", "level": "Proficient", "rating": 4 },
+          { "name": "HTML5, CSS3, JavaScript", "level": "Proficient", "rating": 4 },
+          { "name": "RESTful APIs", "level": "Proficient", "rating": 4 },
+          { "name": "Relational Databases (MySQL)", "level": "Proficient", "rating": 4 }
+        ]
+      },
+      {
+        "name": "Systems & Development Tools",
+        "icon": "terminal",
+        "items": [
+          { "name": "Linux / Unix Shell", "level": "Advanced", "rating": 5 },
+          { "name": "Git & GitHub", "level": "Advanced", "rating": 5 },
+          { "name": "Bash Scripting", "level": "Intermediate", "rating": 4 }
+        ]
+      }
+    ]
+  },
+  "languages": [
+    {
+      "language": "Persian",
+      "proficiency": "Mother tongue / Native",
+      "level": "Native",
+      "score": 5
+    },
+    {
+      "language": "English",
+      "proficiency": "Upper-Intermediate",
+      "level": "B2",
+      "score": 4
+    }
+  ],
+  "publications": []
+}
