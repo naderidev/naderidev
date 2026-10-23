@@ -4,14 +4,13 @@
     "description": "Computer Engineering Student at University of Yasouj specializing in Artificial Intelligence, Machine Learning, Computer Vision, and Robotics.",
     "language": "en",
     "lastUpdated": "2026-10-23",
-    "githubRepo": "https://github.com/naderidev/cv",
-    "rawJsonUrl": "https://raw.githubusercontent.com/naderidev/cv/main/public/data.json"
+    "githubRepo": "https://github.com/naderidev/naderidev"
   },
   "profile": {
     "name": "Mohammadreza Naderi Akhormeh",
     "headline": "Computer Engineering Student",
     "subheadline": "AI & Robotics Enthusiast · Web Developer",
-    "avatar": "/images/profile.webp",
+    "avatar": "https://github.com/naderidev.png",
     "avatarFallback": "/images/profile.png",
     "location": "Yasouj, Iran",
     "email": "naderi.mohammadreza@outlook.com",
@@ -23,7 +22,7 @@
     "linkedinUsername": "naderidev",
     "kaggle": "https://www.kaggle.com/mohammadrezanaderia",
     "kaggleUsername": "mohammadrezanaderia",
-    "resumePdf": "/files/Mohammadreza_Naderi_Akhormeh_Resume.pdf",
+    "resumePdf": "https://raw.githubusercontent.com/naderidev/naderidev/refs/heads/main/Resume.pdf",
     "status": {
       "available": true,
       "text": "Available"
