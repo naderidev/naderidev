@@ -35,10 +35,10 @@
   },
   "education": [
     {
-      "institution": "University of Yasouj",
+      "institution": "University of Yasuj",
       "degree": "Bachelor of Science in Computer Engineering",
       "period": "10/2023 – Present",
-      "location": "Yasouj, Iran",
+      "location": "Yasuj, Iran",
       "gpa": "18.39 / 20",
       "gpaHighlight": "Ranked 1st in Admission Cohort",
       "relevantInterests": [
@@ -58,10 +58,10 @@
   "awards": [
     {
       "title": "First-Ranked Student in Computer Engineering",
-      "issuer": "University of Yasouj",
+      "issuer": "University of Yasuj",
       "year": "2026",
       "badge": "Rank 1 / 77",
-      "description": "Ranked 1st among 77 students in the 2023 Computer Engineering admission cohort at the University of Yasouj, awarded based on outstanding academic performance."
+      "description": "Ranked 1st among 77 students in the 2023 Computer Engineering admission cohort at the University of Yasuj, awarded based on outstanding academic performance."
     },
     {
       "title": "Membership in the Iran National Elites Foundation",
@@ -77,7 +77,7 @@
       "company": "Self-Employed",
       "type": "Freelance",
       "period": "09/2024 – Present",
-      "location": "Yasouj, Iran",
+      "location": "Yasuj, Iran",
       "summary": "Building modern, scalable web applications and robust server-side APIs.",
       "bullets": [
         "Developed and maintained website backends using PHP and the Laravel framework.",
@@ -88,10 +88,10 @@
     },
     {
       "role": "Teaching Assistant – Fundamentals of Computer & Programming",
-      "company": "University of Yasouj",
+      "company": "University of Yasuj",
       "type": "Academic Teaching",
       "period": "09/2024 – 06/2025",
-      "location": "University of Yasouj, Iran",
+      "location": "University of Yasuj, Iran",
       "summary": "Mentored undergraduate engineering students in programming fundamentals and algorithmic thinking.",
       "bullets": [
         "Served as an official teaching assistant for two consecutive academic semesters.",
