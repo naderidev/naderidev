@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Mohammadreza Naderi Akhormeh — Resume & Portfolio",
-    "description": "Computer Engineering Student at University of Yasouj specializing in Artificial Intelligence, Machine Learning, Computer Vision, and Robotics.",
+    "description": "Computer Engineering Student at University of Yasuj specializing in Artificial Intelligence, Machine Learning, Computer Vision, and Robotics.",
     "language": "en",
     "lastUpdated": "2026-10-23",
     "githubRepo": "https://github.com/naderidev/naderidev"
@@ -12,7 +12,7 @@
     "subheadline": "AI & Robotics Enthusiast · Web Developer",
     "avatar": "https://github.com/naderidev.png",
     "avatarFallback": "/images/profile.png",
-    "location": "Yasouj, Iran",
+    "location": "Yasuj, Iran",
     "email": "naderi.mohammadreza@outlook.com",
     "website": "https://naderidev.ir",
     "websiteDisplay": "naderidev.ir",
@@ -28,7 +28,7 @@
       "text": "Available"
     },
     "bio": [
-      "Computer Engineering student at the University of Yasouj with a strong passion for artificial intelligence, machine learning, computer vision, and intelligent robotic systems.",
+      "Computer Engineering student at the University of Yasuj with a strong passion for artificial intelligence, machine learning, computer vision, and intelligent robotic systems.",
       "Experienced in programming, academic teaching assistance, and modern web development, with a committed interest in applying AI techniques to solve complex real-world problems.",
       "Seeking to deepen expertise in AI and robotics through graduate studies and innovative research initiatives."
     ]
